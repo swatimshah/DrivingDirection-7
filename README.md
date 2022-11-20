@@ -9,3 +9,5 @@ Train: 1.000, Test: 0.591   <br/>
 [[168  32  16]              <br/>
  [ 49  33  12]              <br/>
  [ 54  20  63]]             <br/>
+ 
+ ![Screenshot](accuracy_59_1_Participants_5_conv_3_layers.png)
